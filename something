@@ -1,0 +1,16 @@
+var adjetives = [
+  'epic',
+  'awesome',
+  'spectacular',
+  'sweet',
+  'stellar',
+  'insightful',
+  'helpful',
+  'kind',
+  'needed',
+  'supportive',
+  'genuine',
+  'creative',
+  'heart-felt',
+  'excellent',
+];
